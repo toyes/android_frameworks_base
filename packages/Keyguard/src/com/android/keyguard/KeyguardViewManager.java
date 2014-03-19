@@ -203,6 +203,7 @@ public class KeyguardViewManager {
         mViewManager = viewManager;
         mViewMediatorCallback = callback;
         mLockPatternUtils = lockPatternUtils;
+        new SettingsObserver(new Handler()).observe();
         updateSettings();
     }
 
