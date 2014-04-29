@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Copyright (C) 2013 ParanoidAndroid Project
+<!-- Copyright (C) 2014 ParanoidAndroid Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -14,12 +14,12 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="pick_lockscreen">Lock screen</string>
-    <string name="lockscreen_reset">Reset</string>
-    <string name="lockscreen_select">Browse</string>
-    <string name="lockscreen_blur">Blur</string>
-    <string name="blur_radius">Blur radius</string>
-    <string name="lockscreen_instructions">Set lockscreen image</string>
-    <string name="lockscreen_image_set">Lockscreen image updated</string>
-    <string name="lockscreen_image_reset">Lockscreen image reset</string>
+    <string name="pick_lockscreen">锁屏</string>
+    <string name="lockscreen_reset">重置</string>
+    <string name="lockscreen_select">浏览</string>
+    <string name="lockscreen_blur">柔化</string>
+    <string name="blur_radius">柔化半径</string>
+    <string name="lockscreen_instructions">设置锁屏壁纸</string>
+    <string name="lockscreen_image_set">锁屏壁纸已更新</string>
+    <string name="lockscreen_image_reset">锁屏壁纸</string>
 </resources>
